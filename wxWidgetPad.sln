@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wxWidgetPad", "wxWidgetPad\wxWidgetPad.csproj", "{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependencies", "Dependencies", "{19079FC8-F76D-43E9-BAD1-D37D377978B0}"
+	ProjectSection(SolutionItems) = preProject
+		Dependencies\wx-c-0-9-0-2.dll = Dependencies\wx-c-0-9-0-2.dll
+		Dependencies\wx.NET.dll = Dependencies\wx.NET.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Languages", "Languages", "{D1D5E976-B530-481C-A4EA-1F605EDD3E19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CLR_VERSION_2|Any CPU = CLR_VERSION_2|Any CPU
+		CLR_VERSION_3_POINT_5|Any CPU = CLR_VERSION_3_POINT_5|Any CPU
+		CLR_VERSION_3|Any CPU = CLR_VERSION_3|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_2|Any CPU.ActiveCfg = CLR_VERSION_2|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_2|Any CPU.Build.0 = CLR_VERSION_2|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_3_POINT_5|Any CPU.ActiveCfg = CLR_VERSION_3_POINT_5|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_3_POINT_5|Any CPU.Build.0 = CLR_VERSION_3_POINT_5|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_3|Any CPU.ActiveCfg = CLR_VERSION_3|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.CLR_VERSION_3|Any CPU.Build.0 = CLR_VERSION_3|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88D73827-63AC-41E5-85A2-33FC4B9D5EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
